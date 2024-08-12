@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishankumarkk08](https://github.com/kishankumarkk08)
 
-- 📫 How to reach me **linked.kk08@gnmail.com**
+- 📫 How to reach me **linked.kk08@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IzAACgXbAZhj_dWCO1A_sx1XlyF02pHa/view?usp=share_link](https://drive.google.com/file/d/1IzAACgXbAZhj_dWCO1A_sx1XlyF02pHa/view?usp=share_link)
 
