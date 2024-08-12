@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 An enthusiastic student who is curious in how the world functions. I do effectively at work and have the flexibility to swiftly adjust to a constantly changing environment. I have a strong sense of enthusiasm, dependability, dedication, and determination to achieve my goals.
 
 
