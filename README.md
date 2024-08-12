@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An enthusiastic student who is curious in how the world functions. I do effectively at work and have the flexibility to swiftly adjust to a constantly changing environment. I have a strong sense of enthusiasm, dependability, dedication, and determination to achieve my goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishankumarkk08&label=Profile%20views&color=0e75b6&style=flat" alt="kishankumarkk08" /> </p>
 
